@@ -1,0 +1,2 @@
+先启动maven项目，然后访问两个浏览器，http://localhost:8081/JavaWebSocket/index.jsp
+可以实现聊天功能，消息群发到每个客户端。8081对应的tomcat  HTTP/1.1对应的端口。
